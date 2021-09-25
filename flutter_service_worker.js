@@ -11,17 +11,17 @@ const RESOURCES = {
 "assets/assets/images/hijab_small.png": "35e16c1d738d65fdcb83c70ca5a952c3",
 "assets/FontManifest.json": "7fc8f990882aa85e5e81502e5d2e3d7b",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "98bd91f1c1c5fe8e36e1f47e26df71ae",
+"assets/NOTICES": "3af10587ef179972b512857761ba6bf1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c41f0997696bb3fd8b0845337dfbd284",
-"/": "c41f0997696bb3fd8b0845337dfbd284",
-"main.dart.js": "e66e48407396ccff60c1ebed0e14db13",
-"manifest.json": "e7cf844663de52ce698035bd3834726a",
+"index.html": "c0a0f13363163181ba14ac2fec82664f",
+"/": "c0a0f13363163181ba14ac2fec82664f",
+"main.dart.js": "8d980f93b8dea567ca3af786282fea51",
+"manifest.json": "7d7fb7e7166ab069b3ae0ac1e3644682",
 "version.json": "47a280063e817543123c9f5edb28b5a8"
 };
 
